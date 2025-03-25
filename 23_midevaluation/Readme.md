@@ -60,6 +60,9 @@ Run Jupyter Notebook ( We used Kaggle Notebook )
 - `best_model.pt`: Saved best-performing model
 - `confusion_matrix.png`: Model performance visualization
 - `test_predictions.csv`: Detailed test set predictions
+- `train_processed.csv`: Preprocessed Training Dataset
+- `val_processed`: Preprocessed Validation Dataset
+- `training history`: Validation-Training loss and F1-Accuracy score
 
 ## Model Architecture
 The model combines:
