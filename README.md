@@ -1,4 +1,5 @@
 # Deception-Detection
+## Aditya Sahai (MT24009) ; Sharad Jain (MT24138) ; Shreyas Rajendra Gore (MT24087)
 ## Overview
 The QANTA Diplomacy project focuses on detecting deceptive messages between players in the strategy game Diplomacy. The task involves analyzing text and metadata to classify messages as either deceptive or truthful. This has implications for NLP, decision-making tasks, game theory, and security applications.
 
