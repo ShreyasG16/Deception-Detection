@@ -59,6 +59,11 @@ To run inference with the MLDM model:
    - Runs inference with a threshold of 0.60 for deception detection
    - Outputs accuracy, Macro F1, and Deceptive F1 scores
    - Saves predictions to `test_predictions.csv`
+     
+5. **Inference Results on Custom Examples**:
+   
+   ![Inference Example](results.png)
+
 
 ## Conclusion
 The best performance was achieved by the MLDM model which fuses linguistic, structural, and strategic context. Graph-based architectures outperformed sequential baselines by modeling message relationships and player interactions. The project demonstrates the importance of combining pretrained language models with relational graph modeling and metadata fusion for effective deception detection in strategic environments.
