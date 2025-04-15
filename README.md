@@ -48,8 +48,8 @@ To run inference with the MLDM model:
    ```
 
 3. **Run Inference**:
-   inference.ipynbp
-   ```
+   inference.ipynb
+
 
 4. **Inference Pipeline**:
    - The script loads the test data from JSONL files
