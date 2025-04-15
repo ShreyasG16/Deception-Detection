@@ -60,9 +60,7 @@ To run inference with the MLDM model:
    - Outputs accuracy, Macro F1, and Deceptive F1 scores
    - Saves predictions to `test_predictions.csv`
      
-5. **Inference Results on Custom Examples**:
-   
-   ![Inference Example](results.png)
+
 
 
 ## Conclusion
