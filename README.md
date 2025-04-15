@@ -66,10 +66,6 @@ To run inference with the MLDM model:
 ## Conclusion
 The best performance was achieved by the MLDM model which fuses linguistic, structural, and strategic context. Graph-based architectures outperformed sequential baselines by modeling message relationships and player interactions. The project demonstrates the importance of combining pretrained language models with relational graph modeling and metadata fusion for effective deception detection in strategic environments.
 
-## Future Work
-- Dynamic graph modeling using temporal graph neural networks
-- Expanded metadata usage including action orders and alliance formations
-- Broader applications in dialog-based trust modeling and adversarial communication
 
 ## Team
 - Aditya Sahai (MT24009)
