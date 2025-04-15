@@ -59,6 +59,11 @@ To run inference with the MLDM model:
    - Runs inference with a threshold of 0.60 for deception detection
    - Outputs accuracy, Macro F1, and Deceptive F1 scores
    - Saves predictions to `test_predictions.csv`
+  
+5. **Inference Results on Custom Examples**:
+   
+   ![Inference Example](results.png)
+
      
 
 
